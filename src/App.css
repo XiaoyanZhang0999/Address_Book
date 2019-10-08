@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+h1{
+  margin-top: 10px;
+}
+#searchBar{
+  margin : 10px auto;
+        width : 57%;
+}

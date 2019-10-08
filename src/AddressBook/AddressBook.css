@@ -1,0 +1,10 @@
+#container{
+    margin: 10px 0;
+}
+
+button{
+    display: block;
+    width: 40%;
+    margin: 5px auto;
+    padding: 5px;
+}
